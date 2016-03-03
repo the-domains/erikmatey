@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[erikmatey]]></title>
+        <description><![CDATA[erikmatey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 17:22:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Erik Matey is a Photographer]]></title>
+            <description><![CDATA[<article><h1>Erik Matey is a Photographer</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e6dfc95-270a-4de4-a35b-04b3dd7d17cf.jpg"></article>]]></description>
+            <link>undefinederik-matey-is-a-photographer/index.html</link>
+            <guid isPermaLink="false">3154c675-28a4-4749-809c-ec9cf861809a</guid>
+            <pubDate>Thu, 03 Mar 2016 17:21:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
