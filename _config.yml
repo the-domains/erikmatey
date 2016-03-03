@@ -1,0 +1,28 @@
+name: erikmatey
+favicon: null
+layout_spectrum: 0.7681485849898309
+typography_spectrum: 0.4409522130154073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6658666525036097
+  lightness: 0.4382250413764268
+  saturation: 0.727884809486568
+  rhythmicContrast: 0.5775943461339921
+purpose: []
