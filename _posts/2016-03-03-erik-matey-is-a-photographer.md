@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T17:21:50.694Z'
-dateModified: '2016-03-03T17:21:20.157Z'
+datePublished: '2016-03-03T17:24:02.501Z'
+dateModified: '2016-03-03T17:21:58.125Z'
 title: Erik Matey is a Photographer
 author: []
+sourcePath: _posts/2016-03-03-erik-matey-is-a-photographer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-03-erik-matey-is-a-photographer.md
-published: true
 url: erik-matey-is-a-photographer/index.html
 _type: Article
 
